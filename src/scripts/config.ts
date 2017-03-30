@@ -1,5 +1,5 @@
 export class config {
-  public static googleMapsKey: string = 'AIzaSyDzl3LF54-nmF2Z8G4AhuiMLw_slLxsYC4';
+  public static googleMapsKey: string = 'AIzaSyA036Y7qqtHc0V3XkQT8fUoyKHEmD1Va28';
   public static latitude: number = 42.563617;
   public static longitude: number = 12.642660;
   public static zoom: number = 5;
