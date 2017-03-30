@@ -25,7 +25,7 @@ export class Location {
 }
 
 export class Util {
-  private static scanRadius: number = 70;
+  private static scanRadius: number = 450;
   public static locationAdjustment: number = Math.sqrt(3) * Util.scanRadius / 2;
   public static hiveOverlap: number = (Util.scanRadius / 2) - ((Util.scanRadius - Util.locationAdjustment) * 2);
 
