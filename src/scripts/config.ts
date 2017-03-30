@@ -1,7 +1,7 @@
 export class config {
   public static googleMapsKey: string = 'AIzaSyDzl3LF54-nmF2Z8G4AhuiMLw_slLxsYC4';
-  public static latitude: number = 37.09024;
-  public static longitude: number = -95.712891;
+  public static latitude: number = 42.563617;
+  public static longitude: number = 12.642660;
   public static zoom: number = 5;
   public static leaps: number = 2;
   public static steps: number = 6;
